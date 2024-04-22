@@ -12,7 +12,7 @@
     * [PUT /steps/{step_id}](#put-stepsstep_id)
     * [DELETE /steps/{step_id}](#delete-stepsstep_id)
     * [PUT /steps/{step_id}/properties/open-tracking-enabled](#put-stepsstep_idpropertiesopen-tracking-enabled)
-    * [PUT /steps/{step_id}/properties/click-tracking-enabled](#)
+    * [PUT /steps/{step_id}/properties/click-tracking-enabled](#put-stepsstep_idpropertiesclick-tracking-enabled)
   * [Service Endpoints](#service-endpoints)
     * [POST /service/status](#get-serviceinfo)
     * [GET /service/info](#get-servicestatus)
