@@ -30,7 +30,6 @@
 - go to the project folder root.
 - run `make docker_build_image service_start` to build and run everything in Docker.
 - run `make lint` to run linter over the code.
-- run `make go_test_unit` to run `unit` tests.
 - run `make docker_build_image service_test` to run `integration` tests.
 
 # Environment Variables
