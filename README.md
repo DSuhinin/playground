@@ -9,7 +9,7 @@
   * [Sequence Endpoints](#sequence-endpoints)
     * [POST /sequences](#post-sequences)
   * [Step Endpoints](#step-endpoints)
-    * [PUT /steps/{step_id}](#put-steps)
+    * [PUT /steps/{step_id}](#put-stepsstep_id)
     * [DELETE /steps/{step_id}](#delete-steps)
     * [PUT /steps/{step_id}/properties/open-tracking-enabled](#)
     * [PUT /steps/{step_id}/properties/click-tracking-enabled](#)
